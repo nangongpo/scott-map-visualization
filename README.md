@@ -1,6 +1,6 @@
-# # scott-map-analysis
+# scott-map-visualization
 
-demo: https://nangongpo.github.io/scott-map-analysis/
+demo: https://nangongpo.github.io/scott-map-visualization/
 
 ## Project setup
 
